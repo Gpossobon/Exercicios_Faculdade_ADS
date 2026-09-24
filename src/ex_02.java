@@ -1,6 +1,6 @@
 import java.util.Scanner;    //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 
-public class Main {
+public class ex_02 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         double idade, altura;
