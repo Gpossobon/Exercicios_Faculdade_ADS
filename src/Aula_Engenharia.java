@@ -34,8 +34,6 @@ public class Aula_Engenharia {
         }
         while (opcao != 0);
     }
-
-
         static void dobrarSalario () {
             double valorSalario;
             double res;

@@ -33,7 +33,6 @@ public class ex_7 {
             resultado = numero1 / numero2;
             System.out.println("O valor da divisão é:\n" + resultado);
         }
-        System.out.println("THAINA GOSTOSA");
 
     }
-};
+}
