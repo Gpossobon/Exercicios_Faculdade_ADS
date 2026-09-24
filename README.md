@@ -1,6 +1,9 @@
-# 🎓 Exercícios de Lógica e Programação em Java
-
+# 🎓 Exercícios de Lógica e Programação em Java 
 Este repositório contém os exercícios e práticas desenvolvidos durante as aulas do curso de **Análise e Desenvolvimento de Sistemas**.
+
+## 💡 Sobre o Desenvolvimento
+
+Todos os exercícios e soluções deste repositório foram desenvolvidos de forma autônoma, focando na construção de raciocínio lógico puro, fixação de sintaxe e resolução manual de problemas, sem a cópia de código gerado por IA.
 
 ## 🚀 Conteúdo do Repositório
 
