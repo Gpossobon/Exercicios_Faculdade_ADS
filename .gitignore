@@ -23,8 +23,16 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+# Pastas de compilação
+/target/
+
+# Arquivos de configuração do IntelliJ
+.idea/
+*.iml
+
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+
