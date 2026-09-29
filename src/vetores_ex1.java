@@ -12,7 +12,7 @@ public class vetores_ex1 {
     public static void notas (Scanner ler,double[] notas){
         int i = 0;
         while (i < 15){
-            System.out.println("Informe a nota " + (i +1 ) +"do aluno:");
+            System.out.println("Informe a " + (i +1 ) +"ª nota do aluno:\n");
             notas[i] = ler.nextInt();
             i++;
         }
